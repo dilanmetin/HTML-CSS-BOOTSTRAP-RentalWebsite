@@ -1,0 +1,81 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+/* Navbar */
+.bg-navbar {
+  background-color: #d989b5;
+  color: #863a6f !important;
+}
+
+.nav-text {
+  font-family: "Pacifico", cursive;
+  font-size: 36px;
+  color: #4d0e3a !important;
+}
+
+.nav-text:hover {
+  color: #eee3c5 !important;
+  transition: 0.3s;
+}
+
+.nav-link {
+  font-size: 22px !important;
+  color: #4d0e3a !important;
+}
+.nav-link:hover {
+  color: #eee3c5 !important;
+}
+/* Search*/
+.user-link {
+  text-decoration: none;
+  color: #4d0e3a;
+}
+
+/* Slide */
+.top-space {
+  margin: 0px auto;
+  margin-top: 100px;
+}
+.carousel-item img {
+  height: 400px;
+}
+/* Product */
+.card-shadow:hover {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.card-price {
+  font-size: 18px;
+  font-weight: bold;
+}
+.btn-card {
+  background-color: #d989b5 !important;
+  color: #fff !important;
+}
+.btn-card-secondary {
+  background-color: #1b97b3 !important;
+  color: #fff !important;
+}
+
+.btn-card:hover {
+  background-color: #fff !important;
+  color: #d989b5 !important;
+  border: 1px solid #d989b5 !important;
+}
+.btn-card-secondary:hover {
+  background-color: #fff !important;
+  color: #1b97b3 !important;
+  border: 1px solid #1b97b3 !important;
+}
+
+/* Footer */
+.bg-footer {
+  background-color: #1b97b3;
+  color: #fff !important;
+}
+
+/* @media (min-width: 768px) {
+  .card-body {
+    width: 400px;
+    height: 150px;
+  }
+} */
